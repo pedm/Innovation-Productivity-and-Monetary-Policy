@@ -14,4 +14,4 @@ The 3 folders contain materials to produce the following set of results:
 * Output includes Figures 2,5,6 in the paper
 
 ### (3) Model results and experiments 
-* Files "Replic_Fig*.m" produce corresponding Figures 3,4,7,8,9 in the paper
+* Files "Replic_Fig*.m" produce output corresponding to Figures 3,4,7,8,9 in the paper
